@@ -28,27 +28,4 @@ module "azure_app_service" {
   // Define variables here
 }
 
-**Inputs**
-The module supports the following input variables:
-
-example_variable: Description of the variable.
-
-**Outputs**
-The module provides the following outputs:
-
-app_service_url: URL of the deployed Azure App Service.
-web_ips: IP addresses associated with the web service.
-
-**Requirements**
-Terraform version 0.12.x or newer.
-Azure provider version compatible with Terraform version.
-
-**Authors**
-Linto
-
-**License**
-This project is licensed under the MIT License.
-
-Feel free to adjust the content as per your specific requirements and preferences.
-
 
